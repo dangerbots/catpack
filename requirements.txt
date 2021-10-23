@@ -37,7 +37,7 @@ Pillow
 prettytable
 psutil
 psycopg2
-
+youtube_dl
 pyfiglet
 PyGithub
 pygments
@@ -72,4 +72,4 @@ wand
 wget
 git+https://github.com/goldsmith/Wikipedia
 youtube-search-python
-youtube_dl
+
