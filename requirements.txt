@@ -37,7 +37,7 @@ Pillow
 prettytable
 psutil
 psycopg2
-PyDictionary
+
 pyfiglet
 PyGithub
 pygments
